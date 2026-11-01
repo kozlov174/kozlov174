@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=500&color=4F46E5,6366F1,10B981&width=900&lines=Kozlov+Danila;+DevOps+инженер+%26+Backend+разработчик" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=500&color=4F46E5,6366F1,10B981&width=900&lines=Kozlov+Danila;+Системный+администратор+%26+Backend+разработчик" alt="Typing SVG"/>
 </h1>
 
 *Надёжность и автоматизация — в основе каждого проекта*
